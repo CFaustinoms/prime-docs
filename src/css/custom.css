@@ -1,0 +1,48 @@
+:root {
+  --ifm-color-primary: #b45309;
+  --ifm-color-primary-dark: #a14808;
+  --ifm-color-primary-darker: #984407;
+  --ifm-color-primary-darkest: #7d3806;
+  --ifm-color-primary-light: #c75e0a;
+  --ifm-color-primary-lighter: #d0630b;
+  --ifm-color-primary-lightest: #e97316;
+  --ifm-code-font-size: 95%;
+  --ifm-font-family-base: 'Inter', system-ui, sans-serif;
+  --docusaurus-highlighted-code-line-bg: rgba(180, 83, 9, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #e97316;
+  --ifm-color-primary-dark: #d4660e;
+  --ifm-color-primary-darker: #c85f0d;
+  --ifm-color-primary-darkest: #a54e0b;
+  --ifm-color-primary-light: #f07c24;
+  --ifm-color-primary-lighter: #f18130;
+  --ifm-color-primary-lightest: #f49048;
+  --docusaurus-highlighted-code-line-bg: rgba(233, 115, 22, 0.2);
+}
+
+.navbar__title {
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+
+.menu__link {
+  font-size: 0.88rem;
+}
+
+article h1 {
+  font-size: 1.8rem;
+}
+
+.badge-perfil {
+  display: inline-block;
+  padding: 2px 10px;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  background: #fef3c7;
+  color: #92400e;
+  border: 1px solid #fcd34d;
+  margin: 2px;
+}
