@@ -8,7 +8,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   url: 'https://docs.primemarcenaria.com.br',
-  baseUrl: '/',
+  baseUrl: '/prime-docs/',
 
   organizationName: 'CFaustinoms',
   projectName: 'prime-docs',

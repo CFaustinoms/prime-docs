@@ -8,6 +8,8 @@ sidebar_position: 1
 
 O módulo **Pedidos Gerais** é a visão completa de todas as Ordens de Produção (OPs) da Prime — do pedido recém-importado até a entrega na obra.
 
+![Tela de Pedidos Gerais](/img/pedidos-gerais.png)
+
 ---
 
 ## Métricas no topo
@@ -71,8 +73,8 @@ Cada linha representa uma OP com as seguintes colunas:
 
 | Botão | Função |
 |---|---|
-| **Atribuir** | Atribui um projetista à OP — aparece quando a OP ainda não tem projetista |
-| Ícone 🔵 (360°) | Abre o painel completo da OP com histórico de projeto, produção, falhas e expedição |
+| **Atribuir** | Atribui um projetista à OP |
+| Ícone 360° | Abre o painel completo da OP com histórico de projeto, produção, falhas e expedição |
 | **Relatório Cliente** | Gera relatório de andamento para envio ao cliente |
 | **Imprimir / PDF** | Gera relatório interno completo |
 | **Importar PDF** | Importa novo pedido a partir do PDF do ERP |
@@ -82,19 +84,19 @@ Cada linha representa uma OP com as seguintes colunas:
 
 ## Editar descrição
 
-Clique no ícone ✏ ao lado da descrição de qualquer OP para editá-la diretamente na listagem, sem precisar abrir um modal separado. Disponível para perfis autorizados.
+Clique no ícone ✏ ao lado da descrição de qualquer OP para editá-la diretamente na listagem. Disponível para perfis **Admin**, **Gestor**, **Gestor Sistema** e **Projetista**.
 
 ---
 
 ## Editar acabamento
 
-Clique no badge laranja na coluna **Acabamento** para visualizar ou editar o acabamento interno e externo da OP. Disponível para perfis **Admin**, **Gestor** e **Projetista**.
+Clique no badge laranja na coluna **Acabamento** para visualizar ou editar o acabamento interno e externo da OP. Disponível para os mesmos perfis acima.
 
 ---
 
 ## Agrupamento de OPs
 
-OPs do mesmo pedido aparecem agrupadas na tabela. O grupo mostra todas as OPs juntas, facilitando a visão de pedidos com múltiplos itens. É possível atribuir projetista a todas as OPs do grupo de uma vez.
+OPs do mesmo pedido aparecem agrupadas na tabela, facilitando a visão de pedidos com múltiplos itens. É possível atribuir projetista a todas as OPs do grupo de uma vez.
 
 ---
 

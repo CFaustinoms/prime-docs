@@ -46,6 +46,6 @@ Cada usuário do sistema possui um **perfil** que define quais módulos ele pode
 
 ---
 
-:::info
+:::info Permissões individuais
 Além do perfil, o administrador pode configurar **permissões individuais** para um usuário específico — liberando ou bloqueando módulos independentemente do perfil geral.
 :::
